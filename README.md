@@ -28,7 +28,7 @@ This is my portfolio website designed using html,css and javascript and enhanced
 
 
 
+## License
 
-
-
+MIT License
 
